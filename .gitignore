@@ -1,0 +1,10 @@
+# IntelliJ
+.idea/
+out/
+*.iml
+
+# OS
+.DS_Store
+
+#Class files
+*.class
