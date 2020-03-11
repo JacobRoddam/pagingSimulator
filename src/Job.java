@@ -1,4 +1,8 @@
-
+/*
+Jacob Roddam and Montrel Nesbitt
+CSCI 340 Spring 2020
+Project 2
+ */
 public class Job {
     int jobNum;
     int runTime;

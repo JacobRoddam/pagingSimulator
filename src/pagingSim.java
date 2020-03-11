@@ -1,5 +1,9 @@
 import java.util.*;
-
+/*
+Jacob Roddam and Montrel Nesbitt
+CSCI 340 Spring 2020
+Project 2
+ */
 
 public class pagingSim {
 
